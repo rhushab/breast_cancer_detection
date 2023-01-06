@@ -1,1 +1,3 @@
-# breast_cancer_detection
+# breast cancer detection
+
+Using logistic regression
